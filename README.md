@@ -57,14 +57,6 @@ You can interact with the live dashboard here:
 
 
 
-#### **🚀 How to Run the Project Locally**
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourgithubusername/hotel-data-analytics.git
-   cd hotel-data-analytics
-
-
 #### 📫 **How to Reach Me**
 - 📧 Email: [monis.engineer@gmail.com](mailto:monis.engineer@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/meetmonis](https://www.linkedin.com/in/meetmonis)
