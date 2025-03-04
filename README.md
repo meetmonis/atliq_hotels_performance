@@ -39,14 +39,14 @@ Welcome to the **Hotel Data Analytics Project**! This project is focused on tran
 #### **📂 Datasets Used:**
 The project uses several datasets related to hotel bookings, performance metrics, and geographical data. These include:
 
-| Dataset Name                  | Description                                                                                                    
-|-------------------------------|---------------------------------------------------------------------------------------| 
-| `dim_date.csv`                 | Date-related details for time-based analysis.                                                                  
-| `dim_hotels.csv`               | Hotel metadata for segmentation (location, star rating, etc.).                                                 
-| `dim_city.csv`                 | Information about cities for geographical analysis.                                                              
-| `fact_bookings.csv`            | Detailed booking-level data for analysis.                                                                     
-| `fact_agg_bookings.csv`        | Aggregated booking metrics for performance analysis.                                                           
-| `merged_bookings.csv`          | Combined dataset for comprehensive insights.                                              |
+| Dataset Name                           | Description                                                                                                    
+|-----------------------------------------|---------------------------------------------------------------------------------------| 
+| `dim_date.csv`                          | Date-related details for time-based analysis.                                                                  
+| `dim_hotels.csv`                        | Hotel metadata for segmentation (location, star rating, etc.).                                                 
+| `dim_city.csv`                          | Information about cities for geographical analysis.                                                              
+| `fact_bookings.csv`                     | Detailed booking-level data for analysis.                                                                     
+| `fact_agg_bookings.csv`                 | Aggregated booking metrics for performance analysis.                                                           
+| `merged_bookings.csv`                   | Combined dataset for comprehensive insights.                                              |
 
 ---
 
