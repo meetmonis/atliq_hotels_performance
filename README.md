@@ -53,7 +53,7 @@ The project uses several datasets related to hotel bookings, performance metrics
 #### **📊 Dashboard Preview:**
 
 You can interact with the live dashboard here:  
-[Hotel Data Analytics Dashboard](https://your-deployed-dashboard-link)
+[Hotel Data Analytics Dashboard](https://atliq-hotels-performance.streamlit.app/))
 
 
 
