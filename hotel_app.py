@@ -40,14 +40,7 @@ st.sidebar.caption('DURN -> Daily Utilized Room Nights')
 st.sidebar.caption('DBRN -> Daily Booking Rate Per Night')
 
 
-# LinkedIn avatar in the bottom-right corner (Link to profile)
-st.markdown("""
-    <div class="avatar-container" style="position: fixed; bottom: 20px; right: 20px;">
-        <a href="https://www.linkedin.com/in/meetmonis/" target="_blank">
-            <img src="https://i.postimg.cc/nh84RRwd/unnamed.jpg" style="border-radius: 50%; height: 40px; width: 40px;">
-        </a>
-    </div>
-""", unsafe_allow_html=True)
+
 
 # Tab navigation (tabs for different views)
 selected_tab = ui.tabs(
