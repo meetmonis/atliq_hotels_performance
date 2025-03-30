@@ -1,12 +1,4 @@
-# Hi 👋, I'm Monis
 
-#### Data Analyst & Visualizer from India – Bringing Data to Life
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=meetmonis&label=Profile%20views&color=0e75b6&style=flat" alt="meetmonis" /> 
-</p>
-
----
 
 #### **Hotel Data Analytics Project** :
 Welcome to the **Hotel Data Analytics Project**! This project is focused on transforming raw hotel booking data into actionable insights that can help optimize hotel operations and improve decision-making. The analysis covers key performance indicators (KPIs) like occupancy rates, revenue, and booking success, while also providing an interactive dashboard for easy exploration.
